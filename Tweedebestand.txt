@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Iets volledig anders geschreven gewoon daarom
-=======
-een lijn geschreven
->>>>>>> 63157201a98343efadc3381d6ffef834d5968b33
